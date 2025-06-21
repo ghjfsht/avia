@@ -1,7 +1,7 @@
 
 services:
   - type: worker
-    name: aviator-bot
+    name: avia
     env: python
     plan: free
     buildCommand: ""
